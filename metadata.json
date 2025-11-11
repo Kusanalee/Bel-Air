@@ -1,0 +1,5 @@
+{
+  "name": "Bel-Air Bus Charter Quotation System",
+  "description": "An instant quotation generator for Bel-Air Bus Charter Corporation. Users can select vehicle types, destinations, and dates to receive an estimated quote, then contact the reservations team to finalize their booking.",
+  "requestFramePermissions": []
+}
